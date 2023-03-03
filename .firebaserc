@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "control-gastos-b79e3": {
+      "hosting": {
+        "control-de-gastos": [
+          "control-gastos-b79e3"
+        ]
+      }
+    }
+  }
+}

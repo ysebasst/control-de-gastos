@@ -121,8 +121,13 @@
               "devServerTarget": "control-de-gastos:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "control-de-gastos"
 }
